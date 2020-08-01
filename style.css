@@ -1,0 +1,37 @@
+
+
+
+
+#jumbotron1 {
+  
+  padding: 150px;
+  
+  background-image: url(assets/imgs/photo-1.jpeg);
+  background-size: cover;
+}
+
+#jumbotron2 {
+  padding: 150px;
+  
+  background-image: url(assets/imgs/photo-2.jpeg);
+  background-size: cover;
+}
+
+#jumbotron3 {
+  padding: 150px;
+  
+  background-image: url(assets/imgs/0.jpeg);
+  background-size: cover;
+}
+
+#footer1 {
+  padding: 20px;
+  border: 1px solid blue;
+}
+
+#nav1 {
+  padding: 20px;
+  border: 1px solid blue;
+  
+}
+
